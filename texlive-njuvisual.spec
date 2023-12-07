@@ -1,6 +1,6 @@
 Name:		texlive-njuvisual
-Version:	61555
-Release:	2
+Version:	65261
+Release:	1
 Summary:	Display logos related to Nanjing University
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/njuvisual

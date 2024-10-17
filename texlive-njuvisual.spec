@@ -3,7 +3,7 @@ Version:	65261
 Release:	1
 Summary:	Display logos related to Nanjing University
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/njuvisual
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/njuvisual
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/njuvisual.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/njuvisual.doc.r%{version}.tar.xz
